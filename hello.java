@@ -1,4 +1,4 @@
-/Initial code 10/30
+//Initial code 10/30
 public class hello{
 	public static void main(String[] args){
 		for(int i =1; i<=10; i++){
